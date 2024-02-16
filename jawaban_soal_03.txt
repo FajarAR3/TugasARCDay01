@@ -1,0 +1,3 @@
+Forking adalah membuat copy/duplikat dari repository orang lain beserta history-nya. Forking berfungsi sebagai jembatan antara repository original dan duplikatnya. Dengan forking, kita dapat melakukan modifikasi terhadap suatu repository tanpa mengganggu repository originalnya. Selain itu, kita juga dapat berkontribusi terhadap repository orang lain melalui pull request agar pemilik repository original mengambil perubahan yang kita buat.Fork berbeda dengan clone. Fork menduplikasi repository menuju repository pengguna, sedangkan clone mengambil repository dari remote ke komputer lokal.
+
+Jadi, kesimpulannya forking membuat duplikat repository orang lain untuk kita ubah, lalu kita dapat melakukan pull request agar perubahan kita diambil pemilik repository tersebut.

@@ -1,0 +1,4 @@
+Rebase adalah penyalinan commit dari branch tertentu ke master branch. Dengan demikian, tidak akan ada commit baru pada master branch. Keunggulan rebase antara lain 
+- membuat history repository menjadi lebih bersih
+- memudahkan untuk membaca grafik commit
+Akan tetapi, rebase juga memiliki kekurangan, yaitu sulit diperbaiki jika terjadi konflik. 

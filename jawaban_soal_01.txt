@@ -1,0 +1,2 @@
+Di GitHub, untuk melakukan merge, diperlukan mekanisme "Compare & pull request". Mekanisme ini secara garis besar meminta izin kepada pemilik repo untuk menarik perubahan pada branch tertentu ke master branch. Setelah itu, pemilik repo akan menentukan apakah akan dilakukan merge atau tidak.Saat melakukan merge, mungkin akan terjadi merge conflict. Merge conflict adalah konflik yang terjadi karena terdapat perbedaan baris yang terdapat pada master branch dan branch yang akan di-merge. Konflik ini dapat diselesaikan secara manual oleh pemilik repo.
+
